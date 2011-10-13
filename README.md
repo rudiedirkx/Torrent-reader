@@ -5,7 +5,7 @@ Parses a .torrent file and returns it as a PHP array.
 Example .torrent attached. You can use the form in the example
 script `torrent_reader.php` to try one of your own.
 
-[See example output here](example-output.md). This is the first part:
+[See example output here](/rudiedirkx/Torrent-reader/blob/master/example-output.md). This is the first part:
 
 
 	Array
